@@ -1,0 +1,10 @@
+{
+  "name": "typescript-project-template",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "4.6.4",
+    "eslint": "8.15.0",
+    "prettier": "2.6.2",
+    "eslint-config-prettier": "8.5.0"
+  }
+}
